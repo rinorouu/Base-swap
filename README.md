@@ -1,4 +1,4 @@
-# Base DeFi Swap 🚀
+# Base Swap 🚀
 
 A decentralized exchange (DEX) interface built on Base Sepolia network, featuring token swaps between USDC and native ETH with a clean, modern UI.
 
