@@ -12,7 +12,7 @@ function App() {
       <div className="w-full max-w-md bg-gray-800 rounded-2xl shadow-xl overflow-hidden">
         {/* Header dengan wallet connect */}
         <div className="flex justify-between items-center p-4 border-b border-gray-700">
-          <h1 className="text-xl font-bold">ROU Swap</h1>
+          <h1 className="text-xl font-bold">BASE Swap</h1>
           <WalletConnect />
         </div>
 
